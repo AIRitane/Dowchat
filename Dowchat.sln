@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32802.440
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Dowchat", "Dowchat.vcxproj", "{F15B584A-8D5E-4194-8BAD-F0F131D80F0C}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DoWeChat", "..\DoWeChat\DoWeChat.vdproj", "{D02C6DB7-2374-4BF2-93D0-3091B3AA5B5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,10 @@ Global
 		{F15B584A-8D5E-4194-8BAD-F0F131D80F0C}.Release|x64.Build.0 = Release|x64
 		{F15B584A-8D5E-4194-8BAD-F0F131D80F0C}.Release|x86.ActiveCfg = Release|Win32
 		{F15B584A-8D5E-4194-8BAD-F0F131D80F0C}.Release|x86.Build.0 = Release|Win32
+		{D02C6DB7-2374-4BF2-93D0-3091B3AA5B5D}.Debug|x64.ActiveCfg = Debug
+		{D02C6DB7-2374-4BF2-93D0-3091B3AA5B5D}.Debug|x86.ActiveCfg = Debug
+		{D02C6DB7-2374-4BF2-93D0-3091B3AA5B5D}.Release|x64.ActiveCfg = Release
+		{D02C6DB7-2374-4BF2-93D0-3091B3AA5B5D}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
